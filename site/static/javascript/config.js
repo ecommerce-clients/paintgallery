@@ -1,0 +1,1 @@
+var SubDomain = 'paintgallery'; var SiteID = '3AAF5347-2AE5-4DED-91E3-8D6443157D52'; var host = 'https://api.eraconnect.net';
